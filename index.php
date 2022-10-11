@@ -1,7 +1,7 @@
 <?php 
 // +------------------------------------------------------------------------+
-// | @author shareiv or csode and scode
-// | Copyright (c) 2017 shareiv. All rights reserved.
+// |
+// | Developer Coder Mert
 // +------------------------------------------------------------------------+
 
 #-->this code blocks access to system folders
