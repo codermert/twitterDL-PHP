@@ -1,7 +1,7 @@
 <?php
 // +------------------------------------------------------------------------+
-// | @author Zhareiv or csode and scode
-// | Copyright (c) 2017 Zhareiv. All rights reserved.
+// | 
+// | Developer Coder Mert
 // +------------------------------------------------------------------------+
 date_default_timezone_set('UTC');
 session_start();
